@@ -1,15 +1,10 @@
 ### Hi there 👋
 
 I am Eze Henry, a software developer based in Nigeria.
-I have been writing Javascript for over 4 years and I have been writing vue.js for over 3 years and node.js for 2 years. I have a total of 3 years of working experience where I worked with companies like [BangerGames](http://bangergames.com/) where I built a vast majority of their responsive frontend, I also worked at [varscon](https://www.varscongroup.com/) where I worked on full-stack applications for various clients using the MEVN stack and many other clients.
+I have worked with companies like [BangerGames](http://bangergames.com/) where I built a vast majority of their responsive frontend, I also worked at [varscon](https://www.varscongroup.com/) where I worked on full-stack applications for various clients using the MEVN stack and many other clients.
 
-I have a lot of experience building mobile-first applications and very complex, accessible and performant applications.
-I am a very great learner and have a very great foundation in software engineering.
-I also have a lot of experience working in startups as majorities of companies I have worked in have been startups and I have experience starting a startup myself.
-
-
-- 🔭 I’m currently working on [Docuvaluate](http://docuvaluate.com) which is a platform for evaluating contracts with the help of AI. I am building it as a full-stack developer in collaboration with [Benjamin Kayode](https://github.com/iambenkay) as my AI engineer and assisting Backend Engineer.
-- 🌱 I’m currently Learning about web accessibility and frontend architecture...
+- 🔭 I’m currently working on [Docuvaluate](https://docuvaluate.com) which is a platform for evaluating contracts with the help of AI. I am building it as a full-stack developer in collaboration with [Benjamin Kayode](https://github.com/iambenkay) as my AI engineer and assisting Backend Engineer.
+- 🌱 I’m currently Learning frontend architecture and many other tools...
 - 👯 I’m looking forward to collaborating on interesting projects that utilize technologies like JavaScript, Vue.js, Typescript, Node, Express, Nest e.t.c....
 - 🤔 I’m looking for help with connections. I have devoted majority of my time to writing code and solving software problems but now I am trying to get reasonable human connections so if you have someone important you think I should know or that may benefit me and [Docuvaluate](http://docuvaluate.com) Please do not fail to introduce us...
 - 💬 Ask me about Web accessibility, automating files, Enterprise vue.js architecture e.t.c. ...
