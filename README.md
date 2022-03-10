@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Eze Henry, a software developer based in Nigeria.
-I have worked with companies like [BangerGames](http://bangergames.com/) where I built a vast majority of their responsive frontend, I also worked at [varscon](https://www.varscongroup.com/) where I worked on full-stack applications for various clients using the MEVN stack and many other clients.
+I have worked with companies like [BangerGames](http://bangergames.com/) where I built a vast majority of their responsive frontend for their MVP, I also worked at [varscon](https://www.varscongroup.com/) where I worked on full-stack applications for various clients using the MEVN stack and many other clients.
 
 - 🔭 I’m currently working on [Docuvaluate](https://docuvaluate.com) which is a platform for evaluating contracts with the help of AI. I am building it as a full-stack developer in collaboration with [Benjamin Kayode](https://github.com/iambenkay) as my AI engineer and assisting Backend Engineer.
 - 🌱 I’m currently Learning frontend architecture, React and many other tools...
